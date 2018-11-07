@@ -1,2 +1,2 @@
-# Language Recognition System:
+# Language Recognition System
 
