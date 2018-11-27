@@ -1,2 +1,4 @@
-# Language Recognition System
+# Language Recognition System: 
+
+Plotting different languages based on their similarity
 
