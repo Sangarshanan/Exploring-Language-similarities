@@ -1,4 +1,4 @@
 # EXPLORING LANGUAGE SIMILARITIES
 
-Plotting several languages to determine their similarity
+Plotting several languages to determine their similarity and hidden correlations
 
